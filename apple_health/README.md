@@ -1,4 +1,4 @@
-# Rook SDK
+# Apple Health
 
 This SDK enables apps to extract and upload data from Apple Health, with this sdk you will be able to extract and upload data, [if you need check our app demo](https://github.com/RookeriesDevelopment/rook_demo_app_ios_react_native_rook_sdk)
 

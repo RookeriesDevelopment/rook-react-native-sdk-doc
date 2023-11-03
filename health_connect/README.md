@@ -1,4 +1,4 @@
-# Rook SDK
+# Health Connect
 
 This SDK enables apps to extract and upload data from Health Connect, with this sdk you will be able to extract and upload data from health connect, [if you need check our app demo](https://github.com/RookeriesDevelopment/rook_demo_app_android_react_native_rook_sdk/tree/main)
 
